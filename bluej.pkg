@@ -1,0 +1,23 @@
+#BlueJ package file
+package.editor.height=585
+package.editor.width=904
+package.editor.x=-4
+package.editor.y=-4
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+target1.appletHeight=350
+target1.appletWidth=300
+target1.editor.height=714
+target1.editor.width=1013
+target1.editor.x=0
+target1.editor.y=0
+target1.height=50
+target1.name=Currency
+target1.numberAppletParameters=0
+target1.showInterface=false
+target1.type=AppletTarget
+target1.width=80
+target1.x=80
+target1.y=10
